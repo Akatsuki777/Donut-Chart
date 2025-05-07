@@ -12,7 +12,7 @@ Once the script has been linked to your webpage, you can simply call it as below
 
 ```javascript
 new DonutChart("#container",{  
-  dataDict: SAMPLE_DATA_DICT,  
+  dataDict: {"A": 20, "B": 10, "C": 25, "D": 32},  
   COLOR_DATA: ["#cc1643", "#44cc55", "#ccb414", "#3f5ecc"],  
   SIZE_VALUE: 0  
 });  
