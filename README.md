@@ -16,4 +16,7 @@ new DonutChart("#container",{
   SIZE_VALUE: 0  
 });  
 ```
+
+"#container" is the queryselector for the container.
+
 The `COLOR_DATA` & `SIZE_VALUE` are optional.
